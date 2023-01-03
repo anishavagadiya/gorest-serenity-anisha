@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Posts crud test","Test001","SUCCESS","2023-01-03T12:57:56.049Z[Europe/London]","0.0","4.58"
+"Posts crud test","This test will Create a new Post","SUCCESS","2023-01-03T12:58:00.651Z[Europe/London]","0.0","1.13"
+"Posts crud test","This test will get by ID","SUCCESS","2023-01-03T12:58:01.781Z[Europe/London]","0.0","0.47"
+"Posts crud test","This test will Update the title","SUCCESS","2023-01-03T12:58:02.248Z[Europe/London]","0.0","0.43"
+"Posts crud test","This test will delete the post","SUCCESS","2023-01-03T12:58:02.674Z[Europe/London]","0.0","1.13"
